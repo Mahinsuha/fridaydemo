@@ -1,4 +1,4 @@
 # fridaydemo
-this is fridaydemo repository
+this is  a fridaydemo repository
 <br>
 author:Mahin
